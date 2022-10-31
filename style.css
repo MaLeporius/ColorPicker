@@ -1,0 +1,39 @@
+body {
+    width: auto;
+    display: block;
+    text-align: center;
+    font-family:Verdana;
+    margin-top: 350px;
+}
+
+.btnColor {
+    margin-left: 5px;
+    width: 60px;
+    height: 60px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+#btn1 {
+    background-color: red;
+}
+
+#btn2 {
+    background-color: #e6e600;
+}
+
+#btn3 {
+    background-color: green;
+}
+
+#btn4 {
+    background-color: blue;
+}
+
+#btn5 {
+    background-color: purple;
+}
+
+#btn6 {
+    background-color: orange;
+}
