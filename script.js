@@ -9,3 +9,28 @@ function rosso() {
    document.body.style.backgroundColor = "red";
    document.body.style.color = "white";
 }
+
+function giallo() {
+    document.body.style.backgroundColor = "yellow";
+    document.body.style.color = "black";
+}
+
+function verde() {
+    document.body.style.backgroundColor = "green";
+    document.body.style.color = "white";
+}
+
+function blu() {
+    document.body.style.backgroundColor = "blue";
+    document.body.style.color = "white";
+}
+
+function viola() {
+    document.body.style.backgroundColor = "purple";
+    document.body.style.color = "white";
+}
+
+function arancione() {
+    document.body.style.backgroundColor = "orange";
+    document.body.style.color = "white";
+}
